@@ -1,0 +1,6 @@
+@CDB.WebApi_HostAddress = http://localhost:5114
+
+GET {{CDB.WebApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

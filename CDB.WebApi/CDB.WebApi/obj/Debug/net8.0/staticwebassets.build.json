@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "cnD3DR3QIY4mJ3qwRsK3RNlQSA/SH529tlNXD9j32ss=",
+  "Source": "CDB.WebApi",
+  "BasePath": "_content/CDB.WebApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

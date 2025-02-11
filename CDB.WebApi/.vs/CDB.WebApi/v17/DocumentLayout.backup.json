@@ -1,0 +1,180 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\DEV\\Desafios\\CDBSolution\\CDB.WebApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CDB77D47-9D53-4957-A81D-B2ACE73673EB}|CDB.UnitTests\\CDB.UnitTests.csproj|c:\\dev\\desafios\\cdbsolution\\cdb.webapi\\cdb.unittests\\units\\postcdbcalculatehandlertest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDB77D47-9D53-4957-A81D-B2ACE73673EB}|CDB.UnitTests\\CDB.UnitTests.csproj|solutionrelative:cdb.unittests\\units\\postcdbcalculatehandlertest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDB77D47-9D53-4957-A81D-B2ACE73673EB}|CDB.UnitTests\\CDB.UnitTests.csproj|c:\\dev\\desafios\\cdbsolution\\cdb.webapi\\cdb.unittests\\mocks\\postcdbresponsemock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDB77D47-9D53-4957-A81D-B2ACE73673EB}|CDB.UnitTests\\CDB.UnitTests.csproj|solutionrelative:cdb.unittests\\mocks\\postcdbresponsemock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDB77D47-9D53-4957-A81D-B2ACE73673EB}|CDB.UnitTests\\CDB.UnitTests.csproj|c:\\dev\\desafios\\cdbsolution\\cdb.webapi\\cdb.unittests\\mocks\\postcdbrequestmock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDB77D47-9D53-4957-A81D-B2ACE73673EB}|CDB.UnitTests\\CDB.UnitTests.csproj|solutionrelative:cdb.unittests\\mocks\\postcdbrequestmock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D177D3E2-700B-4C82-8AFA-8926680C126D}|CDB.Domain\\CDB.Domain.csproj|c:\\dev\\desafios\\cdbsolution\\cdb.webapi\\cdb.domain\\services\\handlers\\postcdbcalculatehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D177D3E2-700B-4C82-8AFA-8926680C126D}|CDB.Domain\\CDB.Domain.csproj|solutionrelative:cdb.domain\\services\\handlers\\postcdbcalculatehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB047175-D511-4F5D-ABE6-28BAE1C68362}|CDB.WebApi\\CDB.WebApi.csproj|c:\\dev\\desafios\\cdbsolution\\cdb.webapi\\cdb.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB047175-D511-4F5D-ABE6-28BAE1C68362}|CDB.WebApi\\CDB.WebApi.csproj|solutionrelative:cdb.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB047175-D511-4F5D-ABE6-28BAE1C68362}|CDB.WebApi\\CDB.WebApi.csproj|c:\\dev\\desafios\\cdbsolution\\cdb.webapi\\cdb.webapi\\controllers\\cdbcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB047175-D511-4F5D-ABE6-28BAE1C68362}|CDB.WebApi\\CDB.WebApi.csproj|solutionrelative:cdb.webapi\\controllers\\cdbcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D177D3E2-700B-4C82-8AFA-8926680C126D}|CDB.Domain\\CDB.Domain.csproj|c:\\dev\\desafios\\cdbsolution\\cdb.webapi\\cdb.domain\\services\\dtos\\postcdbresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D177D3E2-700B-4C82-8AFA-8926680C126D}|CDB.Domain\\CDB.Domain.csproj|solutionrelative:cdb.domain\\services\\dtos\\postcdbresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D177D3E2-700B-4C82-8AFA-8926680C126D}|CDB.Domain\\CDB.Domain.csproj|c:\\dev\\desafios\\cdbsolution\\cdb.webapi\\cdb.domain\\services\\dtos\\postcdbrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D177D3E2-700B-4C82-8AFA-8926680C126D}|CDB.Domain\\CDB.Domain.csproj|solutionrelative:cdb.domain\\services\\dtos\\postcdbrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PostCdbResponseMock.cs",
+              "DocumentMoniker": "C:\\DEV\\Desafios\\CDBSolution\\CDB.WebApi\\CDB.UnitTests\\Mocks\\PostCdbResponseMock.cs",
+              "RelativeDocumentMoniker": "CDB.UnitTests\\Mocks\\PostCdbResponseMock.cs",
+              "ToolTip": "C:\\DEV\\Desafios\\CDBSolution\\CDB.WebApi\\CDB.UnitTests\\Mocks\\PostCdbResponseMock.cs",
+              "RelativeToolTip": "CDB.UnitTests\\Mocks\\PostCdbResponseMock.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-11T12:57:27.334Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PostCdbRequestMock.cs",
+              "DocumentMoniker": "C:\\DEV\\Desafios\\CDBSolution\\CDB.WebApi\\CDB.UnitTests\\Mocks\\PostCdbRequestMock.cs",
+              "RelativeDocumentMoniker": "CDB.UnitTests\\Mocks\\PostCdbRequestMock.cs",
+              "ToolTip": "C:\\DEV\\Desafios\\CDBSolution\\CDB.WebApi\\CDB.UnitTests\\Mocks\\PostCdbRequestMock.cs",
+              "RelativeToolTip": "CDB.UnitTests\\Mocks\\PostCdbRequestMock.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-11T12:52:24.997Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PostCdbCalculateHandlerTest.cs",
+              "DocumentMoniker": "C:\\DEV\\Desafios\\CDBSolution\\CDB.WebApi\\CDB.UnitTests\\Units\\PostCdbCalculateHandlerTest.cs",
+              "RelativeDocumentMoniker": "CDB.UnitTests\\Units\\PostCdbCalculateHandlerTest.cs",
+              "ToolTip": "C:\\DEV\\Desafios\\CDBSolution\\CDB.WebApi\\CDB.UnitTests\\Units\\PostCdbCalculateHandlerTest.cs",
+              "RelativeToolTip": "CDB.UnitTests\\Units\\PostCdbCalculateHandlerTest.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAYwBIAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-11T12:29:42.779Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PostCdbCalculateHandler.cs",
+              "DocumentMoniker": "C:\\DEV\\Desafios\\CDBSolution\\CDB.WebApi\\CDB.Domain\\Services\\Handlers\\PostCdbCalculateHandler.cs",
+              "RelativeDocumentMoniker": "CDB.Domain\\Services\\Handlers\\PostCdbCalculateHandler.cs",
+              "ToolTip": "C:\\DEV\\Desafios\\CDBSolution\\CDB.WebApi\\CDB.Domain\\Services\\Handlers\\PostCdbCalculateHandler.cs",
+              "RelativeToolTip": "CDB.Domain\\Services\\Handlers\\PostCdbCalculateHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-11T11:23:05.932Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\DEV\\Desafios\\CDBSolution\\CDB.WebApi\\CDB.WebApi\\Program.cs",
+              "RelativeDocumentMoniker": "CDB.WebApi\\Program.cs",
+              "ToolTip": "C:\\DEV\\Desafios\\CDBSolution\\CDB.WebApi\\CDB.WebApi\\Program.cs",
+              "RelativeToolTip": "CDB.WebApi\\Program.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAACcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-11T11:15:52.446Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CdbController.cs",
+              "DocumentMoniker": "C:\\DEV\\Desafios\\CDBSolution\\CDB.WebApi\\CDB.WebApi\\Controllers\\CdbController.cs",
+              "RelativeDocumentMoniker": "CDB.WebApi\\Controllers\\CdbController.cs",
+              "ToolTip": "C:\\DEV\\Desafios\\CDBSolution\\CDB.WebApi\\CDB.WebApi\\Controllers\\CdbController.cs",
+              "RelativeToolTip": "CDB.WebApi\\Controllers\\CdbController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-11T01:44:21.832Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PostCdbResponse.cs",
+              "DocumentMoniker": "C:\\DEV\\Desafios\\CDBSolution\\CDB.WebApi\\CDB.Domain\\Services\\Dtos\\PostCdbResponse.cs",
+              "RelativeDocumentMoniker": "CDB.Domain\\Services\\Dtos\\PostCdbResponse.cs",
+              "ToolTip": "C:\\DEV\\Desafios\\CDBSolution\\CDB.WebApi\\CDB.Domain\\Services\\Dtos\\PostCdbResponse.cs",
+              "RelativeToolTip": "CDB.Domain\\Services\\Dtos\\PostCdbResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-11T01:43:33.738Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PostCdbRequest.cs",
+              "DocumentMoniker": "C:\\DEV\\Desafios\\CDBSolution\\CDB.WebApi\\CDB.Domain\\Services\\Dtos\\PostCdbRequest.cs",
+              "RelativeDocumentMoniker": "CDB.Domain\\Services\\Dtos\\PostCdbRequest.cs",
+              "ToolTip": "C:\\DEV\\Desafios\\CDBSolution\\CDB.WebApi\\CDB.Domain\\Services\\Dtos\\PostCdbRequest.cs",
+              "RelativeToolTip": "CDB.Domain\\Services\\Dtos\\PostCdbRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-11T01:40:32.873Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

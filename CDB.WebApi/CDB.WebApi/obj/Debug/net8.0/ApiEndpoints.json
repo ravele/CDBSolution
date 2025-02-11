@@ -1,0 +1,18 @@
+[
+  {
+    "ContainingType": "CDB.WebApi.Controllers.CdbController",
+    "Method": "PostCdbCalculateAsync",
+    "RelativePath": "api/cdb/calculate",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "CDB.Domain.Services.Dtos.PostCdbRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

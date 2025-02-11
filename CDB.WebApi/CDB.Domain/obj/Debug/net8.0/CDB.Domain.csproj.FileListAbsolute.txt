@@ -1,0 +1,11 @@
+C:\DEV\Desafios\CDBSolution\CDB.WebApi\CDB.Domain\bin\Debug\net8.0\CDB.Domain.deps.json
+C:\DEV\Desafios\CDBSolution\CDB.WebApi\CDB.Domain\bin\Debug\net8.0\CDB.Domain.dll
+C:\DEV\Desafios\CDBSolution\CDB.WebApi\CDB.Domain\bin\Debug\net8.0\CDB.Domain.pdb
+C:\DEV\Desafios\CDBSolution\CDB.WebApi\CDB.Domain\obj\Debug\net8.0\CDB.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\DEV\Desafios\CDBSolution\CDB.WebApi\CDB.Domain\obj\Debug\net8.0\CDB.Domain.AssemblyInfoInputs.cache
+C:\DEV\Desafios\CDBSolution\CDB.WebApi\CDB.Domain\obj\Debug\net8.0\CDB.Domain.AssemblyInfo.cs
+C:\DEV\Desafios\CDBSolution\CDB.WebApi\CDB.Domain\obj\Debug\net8.0\CDB.Domain.csproj.CoreCompileInputs.cache
+C:\DEV\Desafios\CDBSolution\CDB.WebApi\CDB.Domain\obj\Debug\net8.0\CDB.Domain.dll
+C:\DEV\Desafios\CDBSolution\CDB.WebApi\CDB.Domain\obj\Debug\net8.0\refint\CDB.Domain.dll
+C:\DEV\Desafios\CDBSolution\CDB.WebApi\CDB.Domain\obj\Debug\net8.0\CDB.Domain.pdb
+C:\DEV\Desafios\CDBSolution\CDB.WebApi\CDB.Domain\obj\Debug\net8.0\ref\CDB.Domain.dll
