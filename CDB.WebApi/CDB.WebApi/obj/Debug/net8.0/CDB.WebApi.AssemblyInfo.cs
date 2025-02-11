@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CDB.WebApi")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7ae22a1af6e5fccbf10bf41c16dcde1b99b28cf2")]
 [assembly: System.Reflection.AssemblyProductAttribute("CDB.WebApi")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CDB.WebApi")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

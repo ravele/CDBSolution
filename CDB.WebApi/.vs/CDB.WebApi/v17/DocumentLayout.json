@@ -78,8 +78,7 @@
               "RelativeToolTip": "CDB.UnitTests\\Mocks\\PostCdbResponseMock.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-11T12:57:27.334Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-11T12:57:27.334Z"
             },
             {
               "$type": "Document",
@@ -91,8 +90,7 @@
               "RelativeToolTip": "CDB.UnitTests\\Mocks\\PostCdbRequestMock.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-11T12:52:24.997Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-11T12:52:24.997Z"
             },
             {
               "$type": "Document",
@@ -117,8 +115,7 @@
               "RelativeToolTip": "CDB.Domain\\Services\\Handlers\\PostCdbCalculateHandler.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-11T11:23:05.932Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-11T11:23:05.932Z"
             },
             {
               "$type": "Document",
@@ -130,8 +127,7 @@
               "RelativeToolTip": "CDB.WebApi\\Program.cs",
               "ViewState": "AgIAAAwAAAAAAAAAAAAAACcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-11T11:15:52.446Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-11T11:15:52.446Z"
             },
             {
               "$type": "Document",
@@ -143,8 +139,7 @@
               "RelativeToolTip": "CDB.WebApi\\Controllers\\CdbController.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAABkAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-11T01:44:21.832Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-11T01:44:21.832Z"
             },
             {
               "$type": "Document",
@@ -156,8 +151,7 @@
               "RelativeToolTip": "CDB.Domain\\Services\\Dtos\\PostCdbResponse.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-11T01:43:33.738Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-11T01:43:33.738Z"
             },
             {
               "$type": "Document",
@@ -169,8 +163,7 @@
               "RelativeToolTip": "CDB.Domain\\Services\\Dtos\\PostCdbRequest.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-11T01:40:32.873Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-11T01:40:32.873Z"
             }
           ]
         }
