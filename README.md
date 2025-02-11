@@ -22,11 +22,11 @@ Este repositório contém a solução **CDB Calculator**, desenvolvida com:
 		└── Services │
 	├── 📁 CDB.UnitTests │
 		├── Mocks │
-		└── Units // Testes unitários para Handlers e Serviços │
-	├── 📁 CDB.AngularApp // Frontend Angular │
+		└── Units │
+	├── 📁 CDB.AngularApp │
 		├── src │
 		└── angular.json
-└── README.md // Instruções do projeto
+└── README.md
 
 ## 🛠️ Pré-requisitos
 
@@ -40,37 +40,37 @@ Antes de executar o projeto, certifique-se de ter instalado:
 ### 1 Backend (.NET Core 8.0)
 1. Navegue até a pasta `CDB.WebApi`:  
    ```bash
-   cd CDBSolution/CDB.WebApi```
+   cd CDBSolution/CDB.WebApi
    
 2. Execute a aplicação:
    ```bash
-   dotnet run```
+   dotnet run
    
 3. A API estará disponível em: http://localhost:7001/api/cdb (Ou outra porta configurada)
 
 ### 2 Frontend (Angular)
 1. Navegue até a pasta CDB.AngularApp:
    ```bash
-   cd CDBSolution/CDB.AngularApp```
+   cd CDBSolution/CDB.AngularApp
    
 2. Instale as dependências do projeto:
    ```bash
-   npm install```
+   npm install
    
 3. Execute o frontend:
    ```bash
-   ng serve```
+   ng serve
    
 4. Acesse o frontend em: http://localhost:4200
 
 ### 3 Como Executar os Testes Unitários
 1. Navegue até a pasta CDB.UnitTests:
    ```bash
-   cd CDBSolution/CDB.UnitTests```
+   cd CDBSolution/CDB.UnitTests
    
 2. Execute os testes:
    ```bash
-   dotnet test```
+   dotnet test
 A cobertura de testes atinge mais de 90%.
 
 ## 📚 Referências e Ferramentas Utilizadas
