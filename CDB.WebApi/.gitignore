@@ -1,0 +1,61 @@
+# .NET Core
+# Ignore build results
+bin/
+obj/
+
+# Ignore user-specific files
+.vs/
+.vscode/
+.idea/
+
+# User-specific files
+*.user
+*.userosscache
+*.suo
+*.userprefs
+
+# Windows Installer files
+*.cab
+*.msi
+*.msm
+*.msp
+
+# Windows Installer files
+Thumbs.db
+ehthumbs.db
+
+# Windows Installer
+# Windows Installer files
+*.cab
+*.msi
+*.msm
+*.msp
+
+# ASP.NET Scaffolding
+ScaffoldingReadMe.txt
+
+# Rider project files
+.idea/
+
+# VS for Mac
+.vscode/
+
+# Node.js modules
+node_modules/
+
+# NPM log files
+npm-debug.log
+
+# User specific files
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Temporary ASP.NET files
+TemporaryASP.NETFiles/
+
+# .NET Core specific
+*.dotCover
+*.log
+*.coverage
